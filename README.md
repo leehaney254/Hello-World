@@ -49,3 +49,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thank you microverse for the immense knowledge shared.
+
+##NB: I Mistakenly merged my repositories but you can find the corrections on [this repository](https://github.com/leehaney254/Hello-World/pull/2).
+
