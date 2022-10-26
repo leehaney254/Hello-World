@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leehaney254/Hello-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leehaney254/Hello-World/issues"
+  },
+  "homepage": "https://github.com/leehaney254/Hello-World#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
